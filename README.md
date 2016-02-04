@@ -6,6 +6,7 @@ This repository contains all files of the assignment of week 4 of the Coursera C
 List of files of this repository:
 
 1. run_analysis.R -- R code which loads raw data and produces tidy data files.
+
 * load packages;
 * setup working directory where are raw data;
 * merge train and test into one dataset;
